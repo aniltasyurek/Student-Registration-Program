@@ -1,0 +1,11 @@
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.csproj.AssemblyReference.cache
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.Form1.resources
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.Properties.Resources.resources
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.csproj.GenerateResource.cache
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.csproj.CoreCompileInputs.cache
+D:\Code\C# Form\kendi_Projem\bin\Debug\kendi_Projem.exe.config
+D:\Code\C# Form\kendi_Projem\bin\Debug\kendi_Projem.exe
+D:\Code\C# Form\kendi_Projem\bin\Debug\kendi_Projem.pdb
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.exe
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.pdb
+D:\Code\C# Form\kendi_Projem\obj\Debug\kendi_Projem.Form2.resources
